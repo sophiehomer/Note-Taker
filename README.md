@@ -13,6 +13,7 @@ Application that allows users to write, save and delete notes.
 [Questions](#questions)  <br>
 
 ## Usage
+Run npm install in the terminal or use in the browser.
 Deployed on Heroku: https://notetaker-express-application.herokuapp.com/
 
 ## Credits
