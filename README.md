@@ -1,6 +1,7 @@
 # Note Taker
 
-<img width="1219" alt="Screen Shot 2022-03-12 at 1 56 10 PM" src="https://user-images.githubusercontent.com/95515946/158036448-0f2446d6-924d-41a2-84b5-30fba9b0c814.png">
+<img width="989" alt="Screen Shot 2022-03-12 at 2 21 34 PM" src="https://user-images.githubusercontent.com/95515946/158037053-319a2029-187f-434f-8d91-58f330e22deb.png">
+
 
 ## Description 
 Application that allows users to write, save and delete notes.
