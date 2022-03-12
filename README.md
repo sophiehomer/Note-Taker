@@ -13,7 +13,7 @@ Application that allows users to write, save and delete notes.
 [Questions](#questions)  <br>
 
 ## Usage
-https://notetaker-express-application.herokuapp.com/
+Deployed on Heroku: https://notetaker-express-application.herokuapp.com/
 
 ## Credits
 Sophie Homer
